@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -44,3 +45,6 @@ Cloud9 > Preferences > Project Settings > Language Support.
 
 Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE.
 To watch some training videos, visit http://www.youtube.com/user/c9ide.
+=======
+# algorithms-in-python
+>>>>>>> 4d96f2904e636692ca0f3ae92e4890158bd78e51
